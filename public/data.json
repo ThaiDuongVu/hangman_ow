@@ -1270,5 +1270,319 @@
       "img": "/abilities/orbofdiscord.png",
       "explain": "[Zenyatta] Launch this orb at an enemy to increase the damage they take."
     }
+  ],
+  "Ultimates": [
+    {
+      "word": "NANO BOOST",
+      "hint": "Ultimate name",
+      "img": "/ultimates/nanoboost.png",
+      "explain": "[Ana] Increases an ally's damage, while reducing damage taken."
+    },
+    {
+      "word": "VERMILLION ASCENT",
+      "hint": "Ultimate name",
+      "img": "/ultimates/vermillionascent.png",
+      "explain": "[Anran] Charge forward, exploding on impact and instantly igniting enemies."
+    },
+    {
+      "word": "VERMILLION REVIVAL",
+      "hint": "Ultimate name",
+      "img": "/ultimates/vermillionrevival.png",
+      "explain": "[Anran] When dead, revive yourself in a fiery explosion."
+    },
+    {
+      "word": "BOB",
+      "hint": "Ultimate name",
+      "img": "/ultimates/bob.png",
+      "explain": "[Ashe] Deploy Bob. He charges forward and knocks enemies into the air, then attacks with his arm cannons."
+    },
+    {
+      "word": "AMPLIFICATION MATRIX",
+      "hint": "Ultimate name",
+      "img": "/ultimates/amplificationmatrix.png",
+      "explain": "[Baptiste] Project a matrix that doubles the damage and healing of allied projectiles."
+    },
+    {
+      "word": "CONFIGURATION ARTILLERY",
+      "hint": "Ultimate name",
+      "img": "/ultimates/configurationartillery.png",
+      "explain": "[Bastion] Become immobile and fire up to three powerful artillery shells."
+    },
+    {
+      "word": "RALLY",
+      "hint": "Ultimate name",
+      "img": "/ultimates/rally.png",
+      "explain": "[Brigitte] Gain armor, empower Barrier Shield and provide extra health to nearby allies."
+    },
+    {
+      "word": "DEADEYE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/deadeye.png",
+      "explain": "[Cassidy] Face off against your enemies. Press Q to lock on, then Ultimate or Primary Fire to fire."
+    },
+    {
+      "word": "SELF DESTRUCT",
+      "hint": "Ultimate name",
+      "img": "/ultimates/selfdestruct.png",
+      "explain": "[D.Va] Eject and overload your mech, causing it to explode after a short time."
+    },
+    {
+      "word": "CALL MECH",
+      "hint": "Ultimate name",
+      "img": "/ultimates/callmech.png",
+      "explain": "[D.Va] Call down a new mech."
+    },
+    {
+      "word": "PANOPTICON",
+      "hint": "Ultimate name",
+      "img": "/ultimates/panopticon.png",
+      "explain": "[Domina] Fire a hard-light barrier that imprisons enemies and detonates on expiration."
+    },
+    {
+      "word": "METEOR STRIKE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/meteorstrike.png",
+      "explain": "[Doomfist] Press Ultimate to leap up into the air. Move the targeting circle, then press Primary Fire to strike the targeted area."
+    },
+    {
+      "word": "DUPLICATE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/duplicate.png",
+      "explain": "[Echo] Become a copy of the targeted enemy hero. They cannot swap heroes for the duration."
+    },
+    {
+      "word": "OVERRIDE PROTOCOL",
+      "hint": "Ultimate name",
+      "img": "/ultimates/overrideprotocol.png",
+      "explain": "[Emre] An override initiates, transforming you into a living weapon."
+    },
+    {
+      "word": "BOLA SHOT",
+      "hint": "Ultimate name",
+      "img": "/ultimates/bolashot.png",
+      "explain": "[Freja] Fire an explosive bola. Hitting an enemy wraps them up and pulls in other nearby enemies."
+    },
+    {
+      "word": "DRAGON BLADE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/dragonblade.png",
+      "explain": "[Genji] Unsheathe a deadly melee weapon."
+    },
+    {
+      "word": "DRAGONSTRIKE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/dragonstrike.png",
+      "explain": "[Hanzo] Launch a deadly Dragon Spirit that devastates enemies it passes through."
+    },
+    {
+      "word": "DOWNPOUR",
+      "hint": "Ultimate name",
+      "img": "/ultimates/downpour.png",
+      "explain": "[Hazard] Rain down a torrent of spikes, Immobilizing enemies."
+    },
+    {
+      "word": "CAPTIVE SUN",
+      "hint": "Ultimate name",
+      "img": "/ultimates/captivesun.png",
+      "explain": "[Illari] Fire an explosive ball of solar energy. Enemies hit are slowed and explode after taking significant damage."
+    },
+    {
+      "word": "CATNAPPER",
+      "hint": "Ultimate name",
+      "img": "/ultimates/catnapper.png",
+      "explain": "[Jetpack Cat] Dive towards a ground location, knocking down enemies and tethering the nearest one to you."
+    },
+    {
+      "word": "RAMPAGE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/rampage.png",
+      "explain": "[Junker Queen] Charge foward. Wounds enemies, dealing damage over time and preventing them from being healed."
+    },
+    {
+      "word": "RIP TIRE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/riptire.png",
+      "explain": "[Junkrat] Drive and detonate an exploding tire."
+    },
+    {
+      "word": "ORBITAL RAY",
+      "hint": "Ultimate name",
+      "img": "/ultimates/orbitalray.png",
+      "explain": "[Juno] Call down a ray that travels forward, healing allies and increasing their damage."
+    },
+    {
+      "word": "KITSUNE RUSH",
+      "hint": "Ultimate name",
+      "img": "/ultimates/kitsunerush.png",
+      "explain": "[Kiriko] Summon a fox spirit that rushes forward, accelerating the movement, attack speed, and cooldowns of allies that follow its path."
+    },
+    {
+      "word": "TREE OF LIFE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/treeoflife.png",
+      "explain": "[Lifeweaver] Place a tree that instantly heals allies upon sprouting and continues healing periodically as it lives."
+    },
+    {
+      "word": "SOUND BARRER",
+      "hint": "Ultimate name",
+      "img": "/ultimates/soundbarrier.png",
+      "explain": "[Lucio] Create temporary extra health for nearby allies."
+    },
+    {
+      "word": "CAGE FIGHT",
+      "hint": "Ultimate name",
+      "img": "/ultimates/cagefight.png",
+      "explain": "[Mauga] Deploy a barrier that traps yourself and enemies. Automatically reloads Mauga's Chainguns at the start of the ultimate."
+    },
+    {
+      "word": "BLIZZARD",
+      "hint": "Ultimate name",
+      "img": "/ultimates/blizzard.png",
+      "explain": "[Mei] Launch a weather control drone that freezes enemies in a wide area."
+    },
+    {
+      "word": "VALKYRIE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/valkyrie.png",
+      "explain": "[Mercy] Gain the ability to fly. Abilities are enhanced."
+    },
+    {
+      "word": "KEKKAI SANCTUARY",
+      "hint": "Ultimate name",
+      "img": "/ultimates/kekkaisanctuary.png",
+      "explain": "[Mizuki] Create a sanctuary that heals allies and absorbs enemy projectiles from outside the area."
+    },
+    {
+      "word": "COALESCENCE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/coalescence.png",
+      "explain": "[Moira] Fire a beam that heals allies and damages enemies."
+    },
+    {
+      "word": "TERRA SURGE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/terrasurge.png",
+      "explain": "[Orisa] Sweep in enemies and anchor down, gaining the effects of Fortify and charging up a surge of damage. Use Primary Fire to unleash the surge early."
+    },
+    {
+      "word": "BARRAGE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/barrage.png",
+      "explain": "[Pharah] Launch a continuous volley of mini-rockets."
+    },
+    {
+      "word": "ANNIHILATION",
+      "hint": "Ultimate name",
+      "img": "/ultimates/annihilation.png",
+      "explain": "[Ramattra] Enter Nemesis Form and create a deadly swarm that lashes out at nearby enemies, persisting longer when damaging enemies."
+    },
+    {
+      "word": "DEATH BLOSSOM",
+      "hint": "Ultimate name",
+      "img": "/ultimates/deathblossom.png",
+      "explain": "[Reaper] Damage all nearby enemies."
+    },
+    {
+      "word": "EARTHSHATTER",
+      "hint": "Ultimate name",
+      "img": "/ultimates/earthshatter.png",
+      "explain": "[Reinhardt] Knock down all enemies in front of you."
+    },
+    {
+      "word": "WHOLE HOG",
+      "hint": "Ultimate name",
+      "img": "/ultimates/wholehog.png",
+      "explain": "[Roadhog] Damage and knock back enemies in front of you."
+    },
+    {
+      "word": "GRAVITIC FLUX",
+      "hint": "Ultimate name",
+      "img": "/ultimates/graviticflux.png",
+      "explain": "[Sigma] Manipulate gravity to lift enemies into the air and slam them back down."
+    },
+    {
+      "word": "OVERCLOCK",
+      "hint": "Ultimate name",
+      "img": "/ultimates/overclock.png",
+      "explain": "[Sojourn] Railgun energy auto-charges for a short duration."
+    },
+    {
+      "word": "TACTICAL VISOR",
+      "hint": "Ultimate name",
+      "img": "/ultimates/tacticalvisor.png",
+      "explain": "[Soldier: 76] Automatically aims your weapon at targets in view."
+    },
+    {
+      "word": "EMP",
+      "hint": "Ultimate name",
+      "img": "/ultimates/emp.png",
+      "explain": "[Sombra] Deal damage to all nearby enemies based on their current health, hacking them and destroying barriers around you."
+    },
+    {
+      "word": "PHOTON BARRIER",
+      "hint": "Ultimate name",
+      "img": "/ultimates/photonbarrier.png",
+      "explain": "[Symmetra] Deploy a massive energy barrier."
+    },
+    {
+      "word": "MOLTEN CORE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/moltencore.png",
+      "explain": "[Torbjorn] Create pools of molten slag that damage enemies. Deals additional damage to armor."
+    },
+    {
+      "word": "PULSE BOMB",
+      "hint": "Ultimate name",
+      "img": "/ultimates/pulsebomb.png",
+      "explain": "[Tracer] Throw out a powerful sticky explosive."
+    },
+    {
+      "word": "SUNDERING BLADE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/sunderingblade.png",
+      "explain": "[Vendetta] Cleave through most defenses, dealing severe damage to enemies in front of you."
+    },
+    {
+      "word": "TETONIC SHOCK",
+      "hint": "Ultimate name",
+      "img": "/ultimates/tetonic shock.png",
+      "explain": "[Venture] Send out damaging shockwaves."
+    },
+    {
+      "word": "INFRASIGHT",
+      "hint": "Ultimate name",
+      "img": "/ultimates/infrasight.png",
+      "explain": "[Widowmaker] Provide your team with a view of the enemy's location."
+    },
+    {
+      "word": "PRIMAL RAGE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/primalrage.png",
+      "explain": "[Winston] Gain immense health, but you can only leap and punch enemies."
+    },
+    {
+      "word": "MINEFIELD",
+      "hint": "Ultimate name",
+      "img": "/ultimates/minefield.png",
+      "explain": "[Wrecking Ball] Deploy a massive field of proximity mines."
+    },
+    {
+      "word": "TIDAL BLAST",
+      "hint": "Ultimate name",
+      "img": "/ultimates/tidalblast.png",
+      "explain": "[Wuyang] Protect an ally or yourself with water that detonates after a short duration. The explosion knocks down enemies and massively heals the host target."
+    },
+    {
+      "word": "GRAVITON SURGE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/gravitonsurge.png",
+      "explain": "[Zarya] Launch a gravity well that pulls enemies to it."
+    },
+    {
+      "word": "TRANSCENDENCE",
+      "hint": "Ultimate name",
+      "img": "/ultimates/transcendence.png",
+      "explain": "[Zenyatta] Become invulnerable, move faster, and heal nearby allies."
+    }
   ]
 }

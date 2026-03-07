@@ -38,6 +38,7 @@ const Game = () => {
   const [heroesChecked, setHeroesChecked] = useState(true);
   const [mapsChecked, setMapsChecked] = useState(true);
   const [abilitiesChecked, setAbilitiesChecked] = useState(true);
+  const [ultimatesChecked, setUltimatesChecked] = useState(true);
 
   const getWordData = async () => {
     // Fetch and select a random word from the datase
@@ -57,6 +58,11 @@ const Game = () => {
     }
     if (abilitiesChecked) {
       data.Abilities.forEach((ability: WordData) => {
+        wordData.push(ability);
+      });
+    }
+    if (ultimatesChecked) {
+      data.Ultimates.forEach((ability: WordData) => {
         wordData.push(ability);
       });
     }
@@ -174,12 +180,12 @@ const Game = () => {
             <label className="form-check-label" htmlFor="ability-name-check">Ability names</label>
           </div>
         </div>
-        {/* <div className="d-flex justify-content-center align-items-center">
+        <div className="d-flex justify-content-center align-items-center">
           <div className="form-check text-start">
-            <input className="form-check-input" type="checkbox" id="other-check" checked={otherChecked} onChange={(event) => setOtherChecked(event.target.checked)} />
-            <label className="form-check-label" htmlFor="other-check">Other</label>
+            <input className="form-check-input" type="checkbox" id="ability-name-check" checked={ultimatesChecked} onChange={(event) => setUltimatesChecked(event.target.checked)} />
+            <label className="form-check-label" htmlFor="ability-name-check">Ultimate names</label>
           </div>
-        </div> */}
+        </div>
 
         <br />
         <button type="button" className="btn btn-info" onClick={startGame}>Start Game</button>
@@ -200,6 +206,8 @@ const Game = () => {
         <br />
         <br />
         <p className="fs-1">{guess}</p>
+
+        {/* Letter buttons */}
         <div>
           <LetterButton letter="A" onClick={() => guessLetter("A")} disabled={guessedLetters.includes("A")} />
           <LetterButton letter="B" onClick={() => guessLetter("B")} disabled={guessedLetters.includes("B")} />
@@ -232,6 +240,7 @@ const Game = () => {
           <LetterButton letter="Y" onClick={() => guessLetter("Y")} disabled={guessedLetters.includes("Y")} />
           <LetterButton letter="Z" onClick={() => guessLetter("Z")} disabled={guessedLetters.includes("Z")} />
         </div>
+
         <hr />
         <button type="button" className="btn btn-danger" onClick={pregame}>End Game</button>
       </div>
