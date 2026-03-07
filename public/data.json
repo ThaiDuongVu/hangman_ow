@@ -1,0 +1,1274 @@
+{
+  "Heroes": [
+    {
+      "word": "ANA",
+      "hint": "Hero name",
+      "img": "/heroes/ana.png",
+      "explain": "One of the founding members of Overwatch, Ana uses her skills and expertise to defend her home and the people she cares for."
+    },
+    {
+      "word": "ANRAN",
+      "hint": "Hero name",
+      "img": "/heroes/anran.png",
+      "explain": "The star graduate of Wuxing University's Fire College, Anran is always burning to push her limits."
+    },
+    {
+      "word": "ASHE",
+      "hint": "Hero name",
+      "img": "/heroes/ashe.png",
+      "explain": "Ashe is the ambitious and calculating leader of the Deadlock Rebels Gang and a respected figure in the criminal underworld."
+    },
+    {
+      "word": "BAPTISTE",
+      "hint": "Hero name",
+      "img": "/heroes/baptiste.png",
+      "explain": "An elite combat medic and ex-Talon operative, Baptiste now uses his skills to help those whose lives have been impacted by war."
+    },
+    {
+      "word": "BASTION",
+      "hint": "Hero name",
+      "img": "/heroes/bastion.png",
+      "explain": "Once a frontline combatant in the devastating Omnic Crisis, this curious Bastion unit now explores the world, fascinated by nature but wary of a fearful humanity."
+    },
+    {
+      "word": "BRIGITTE",
+      "hint": "Hero name",
+      "img": "/heroes/brigitte.png",
+      "explain": "No longer sitting on the sidelines, Brigitte Lindholm has taken up arms to defend those in need of protection."
+    },
+    {
+      "word": "CASSIDY",
+      "hint": "Hero name",
+      "img": "/heroes/cassidy.png",
+      "explain": "Armed with his Peacekeeper revolver, the outlaw Cole Cassidy doles out justice on his own terms."
+    },
+    {
+      "word": "DVA",
+      "hint": "Hero name",
+      "img": "/heroes/dva.png",
+      "explain": "D.Va is a former professional gamer who now uses her skills to pilot a state-of-the-art mech in defense of her homeland."
+    },
+    {
+      "word": "DOMINA",
+      "hint": "Hero name",
+      "img": "/heroes/domina.png",
+      "explain": "As Vishkar Corporation’s most prized negotiator, Domina uses her masterful command of hard-light to take control of every situation."
+    },
+    {
+      "word": "DOOMFIST",
+      "hint": "Hero name",
+      "img": "/heroes/doomfist.png",
+      "explain": "Doomfist was the calculating leader of Talon, a terrorist organization and paramilitary force that works in direct opposition to Overwatch."
+    },
+    {
+      "word": "ECHO",
+      "hint": "Hero name",
+      "img": "/heroes/echo.png",
+      "explain": "Echo is a multirole, adaptive robot with the most sophisticated artificial intelligence in the world, originally designed by Dr. Mina Liao for use during combat missions with Overwatch."
+    },
+    {
+      "word": "EMRE",
+      "hint": "Hero name",
+      "img": "/heroes/emre.png",
+      "explain": "Emre disappeared after a lauded tenure on the Overwatch strike team. He has resurfaced years later, his body and mind manipulated by something unknown."
+    },
+    {
+      "word": "FREJA",
+      "hint": "Hero name",
+      "img": "/heroes/freja.png",
+      "explain": "A search and rescue operative turned bounty hunter, Freja can find anyone for the right price."
+    },
+    {
+      "word": "GENJI",
+      "hint": "Hero name",
+      "img": "/heroes/genji.png",
+      "explain": "The cyborg ninja Genji Shimada has made peace with the augmented body he once rejected, and in doing so, he has discovered a higher humanity."
+    },
+    {
+      "word": "HANZO",
+      "hint": "Hero name",
+      "img": "/heroes/hanzo.png",
+      "explain": "Mastering his skills as a bowman and an assassin, Hanzo Shimada strives to prove himself as a warrior without peer."
+    },
+    {
+      "word": "HAZARD",
+      "hint": "Hero name",
+      "img": "/heroes/hazard.png",
+      "explain": "A radical disruptor and an unstoppable weapon, Hazard has rocketed to fame in the criminal underworld as he fights to tear the system down."
+    },
+    {
+      "word": "ILLARI",
+      "hint": "Hero name",
+      "img": "/heroes/illari.png",
+      "explain": "As the last of the Inti Warriors, Illari is a vessel for the power of the sun. She’ll do anything to make up for her past."
+    },
+    {
+      "word": "JETPACK CAT",
+      "hint": "Hero name",
+      "img": "/heroes/jetpackcat.png",
+      "explain": "A fearless feline pilot equipped with Brigitte’s latest jet-propulsion invention, Jetpack Cat brings adorable aerial support to the battlefield."
+    },
+    {
+      "word": "JUNKER QUEEN",
+      "hint": "Hero name",
+      "img": "/heroes/junkerqueen.png",
+      "explain": "Armed with her axe, Carnage, and her electromagnetic gauntlet, the cutthroat leader of the Junkers is on a mission to rule the world."
+    },
+    {
+      "word": "JUNKRAT",
+      "hint": "Hero name",
+      "img": "/heroes/junkrat.png",
+      "explain": "Junkrat is an explosives-obsessed demolitionist who lives to cause chaos and destruction."
+    },
+    {
+      "word": "JUNO",
+      "hint": "Hero name",
+      "img": "/heroes/juno.png",
+      "explain": "The first human born on Mars, Juno uses her space-age technology to solve any problem that enters her orbit. She is determined to one day save her home planet."
+    },
+    {
+      "word": "KIRIKO",
+      "hint": "Hero name",
+      "img": "/heroes/kiriko.png",
+      "explain": "As Miko of the Kanezaka shrine and daughter of the Shimada's former swordmaster, Kiriko Kamori channels both her spiritual and ninja skills to heal her fractured city."
+    },
+    {
+      "word": "LIFEWEAVER",
+      "hint": "Hero name",
+      "img": "/heroes/lifeweaver.png",
+      "explain": "The brilliant creator of biolight, a technology that merges plant matter and hard light. He dreams of healing the world."
+    },
+    {
+      "word": "LUCIO",
+      "hint": "Hero name",
+      "img": "/heroes/lucio.png",
+      "explain": "Lúcio is an international celebrity who inspires social change through his music and activism."
+    },
+    {
+      "word": "MAUGA",
+      "hint": "Hero name",
+      "img": "/heroes/mauga.png",
+      "explain": "A charismatic and cunning Samoan warrior, Mauga thrives in the chaos of the battlefield and lives every day like it’s his last."
+    },
+    {
+      "word": "MEI",
+      "hint": "Hero name",
+      "img": "/heroes/mei.png",
+      "explain": "Mei is a scientist who has taken the fight to preserve the environment into her own hands."
+    },
+    {
+      "word": "MERCY",
+      "hint": "Hero name",
+      "img": "/heroes/mercy.png",
+      "explain": "A guardian angel to those who come under her care, Dr. Angela Ziegler is a peerless healer, a brilliant scientist, and a staunch advocate for peace."
+    },
+    {
+      "word": "MIZUKI",
+      "hint": "Hero name",
+      "img": "/heroes/mizuki.png",
+      "explain": "Born under a shadow of misfortune, Mizuki will do anything it takes to break free of his curse and decide his own fate."
+    },
+    {
+      "word": "MOIRA",
+      "hint": "Hero name",
+      "img": "/heroes/moira.png",
+      "explain": "Equal parts brilliant and controversial, scientist Moira O'Deorain is on the cutting edge of genetic engineering, searching for a way to rewrite the fundamental building blocks of life."
+    },
+    {
+      "word": "ORISA",
+      "hint": "Hero name",
+      "img": "/heroes/orisa.png",
+      "explain": "Built from parts of one of Numbani's short-lived OR15 defense robots, Orisa is the city's newest protector, though she still has much to learn."
+    },
+    {
+      "word": "PHARAH",
+      "hint": "Hero name",
+      "img": "/heroes/pharah.png",
+      "explain": "Fareeha Amari's commitment to duty runs in her blood. She comes from a long line of highly decorated soldiers and burns with the desire to serve with honor."
+    },
+    {
+      "word": "RAMATTRA",
+      "hint": "Hero name",
+      "img": "/heroes/ramattra.png",
+      "explain": "The brutal leader of Null Sector will stop at nothing to see his vision for the world realized."
+    },
+    {
+      "word": "REAPER",
+      "hint": "Hero name",
+      "img": "/heroes/reaper.png",
+      "explain": "Some speak of a black-robed terrorist known only as the Reaper. His identity and motives are a mystery. What is known is that where he appears, death follows."
+    },
+    {
+      "word": "REINHARDT",
+      "hint": "Hero name",
+      "img": "/heroes/reinhardt.png",
+      "explain": "Reinhardt Wilhelm styles himself as a champion of a bygone age, who lives by the knightly codes of valor, justice, and courage."
+    },
+    {
+      "word": "ROADHOG",
+      "hint": "Hero name",
+      "img": "/heroes/roadhog.png",
+      "explain": "Roadhog is a powerful enforcer with a well-earned reputation for random and wanton destruction."
+    },
+    {
+      "word": "SIGMA",
+      "hint": "Hero name",
+      "img": "/heroes/sigma.png",
+      "explain": "Brilliant astrophysicist Dr. Siebren de Kuiper's life changed forever when an experiment gone wrong gave him the ability to control gravity; now, Talon manipulates him to their own ends."
+    },
+    {
+      "word": "SOJOURN",
+      "hint": "Hero name",
+      "img": "/heroes/sojourn.png",
+      "explain": "As a leader in the bygone days of Overwatch, Vivian Chase, callsign Sojourn, is determined to ensure its new heroes don’t repeat the mistakes of the past."
+    },
+    {
+      "word": "SOMBRA",
+      "hint": "Hero name",
+      "img": "/heroes/sombra.png",
+      "explain": "One of the world's most notorious hackers, Sombra uses information to manipulate those in power."
+    },
+    {
+      "word": "SYMMETRA",
+      "hint": "Hero name",
+      "img": "/heroes/symmetra.png",
+      "explain": "Symmetra literally bends reality. By manipulating hard-light constructs, she crafts the world as she wishes it to be, in hopes of engineering a perfect society."
+    },
+    {
+      "word": "TORBJORN",
+      "hint": "Hero name",
+      "img": "/heroes/torbjorn.png",
+      "explain": "At its height, Overwatch possessed one of the most advanced armaments on the planet, which could be traced to the workshop of an ingenious engineer named Torbjörn Lindholm."
+    },
+    {
+      "word": "TRACER",
+      "hint": "Hero name",
+      "img": "/heroes/tracer.png",
+      "explain": "The former Overwatch agent known as Tracer is a time-jumping adventurer and an irrepressible force for good."
+    },
+    {
+      "word": "VENDETTA",
+      "hint": "Hero name",
+      "img": "/heroes/vendetta.png",
+      "explain": "As champion of the Colosseo and a member of Italy's elite, Vendetta will stop at nothing to reclaim the throne of her family's criminal empire. Known for her explosive rage and ruthlessness in battle, the only thing that exceeds her skill in physical combat is her boundless ambition."
+    },
+    {
+      "word": "VENTURE",
+      "hint": "Hero name",
+      "img": "/heroes/venture.png",
+      "explain": "A globe-trotting archaeologist and explorer, Venture has a passion for solving history’s mysteries."
+    },
+    {
+      "word": "WIDOWMAKER",
+      "hint": "Hero name",
+      "img": "/heroes/widowmaker.png",
+      "explain": "Widowmaker is the perfect assassin: a patient, ruthlessly efficient killer who shows neither emotion nor remorse."
+    },
+    {
+      "word": "WINSTON",
+      "hint": "Hero name",
+      "img": "/heroes/winston.png",
+      "explain": "A super-intelligent, genetically engineered gorilla, Winston is a brilliant scientist and a champion for humanity’s potential."
+    },
+    {
+      "word": "WRECKING BALL",
+      "hint": "Hero name",
+      "img": "/heroes/wreckingball.png",
+      "explain": "A resourceful and highly intelligent mechanic and fighter, Wrecking Ball rose from the laboratories of Horizon Lunar Colony to become the Junker Queen’s champion."
+    },
+    {
+      "word": "WUYANG",
+      "hint": "Hero name",
+      "img": "/heroes/wuyang.png",
+      "explain": "Wielder of healing technology from Wuxing University’s Water College, Wuyang is always ready to turn the tide of battle."
+    },
+    {
+      "word": "ZARYA",
+      "hint": "Hero name",
+      "img": "/heroes/zarya.png",
+      "explain": "Aleksandra Zaryanova is one of the world's strongest women, a celebrated athlete who sacrificed personal glory to protect her family, friends, and country in a time of war."
+    },
+    {
+      "word": "ZENYATTA",
+      "hint": "Hero name",
+      "img": "/heroes/zenyatta.png",
+      "explain": "Zenyatta is an omnic monk who wanders the world in search of spiritual enlightenment. It is said that those who cross his path are never the same again."
+    }
+  ],
+  "Maps": [
+    {
+      "word": "AATLIS",
+      "hint": "Map name",
+      "img": "/maps/aatlis.png",
+      "explain": "Aatlis is a Flashpoint map in Overwatch."
+    },
+    {
+      "word": "ANTARTIC PENINSULA",
+      "hint": "Map name",
+      "img": "/maps/antarcticpeninsula.png",
+      "explain": "Antartic Peninsula is a Control map in Overwatch."
+    },
+    {
+      "word": "BLIZZARD WORLD",
+      "hint": "Map name",
+      "img": "/maps/blizzardworld.png",
+      "explain": "Blizzard World is a Hybrid map in Overwatch."
+    },
+    {
+      "word": "BUSAN",
+      "hint": "Map name",
+      "img": "/maps/busan.png",
+      "explain": "Busan is a Control map in Overwatch."
+    },
+    {
+      "word": "CIRCUIT ROYAL",
+      "hint": "Map name",
+      "img": "/maps/circuitroyal.png",
+      "explain": "Circuit Royal is an Escort map in Overwatch."
+    },
+    {
+      "word": "COLOSSEO",
+      "hint": "Map name",
+      "img": "/maps/colosseo.png",
+      "explain": "Colosseo is a Push map in Overwatch."
+    },
+    {
+      "word": "DORADO",
+      "hint": "Map name",
+      "img": "/maps/dorado.png",
+      "explain": "Dorado is an Escort map in Overwatch."
+    },
+    {
+      "word": "EICHENWALDE",
+      "hint": "Map name",
+      "img": "/maps/eichenwalde.png",
+      "explain": "Eichenwalde is a Hybrid map in Overwatch."
+    },
+    {
+      "word": "ESPERANCA",
+      "hint": "Map name",
+      "img": "/maps/esperanca.png",
+      "explain": "Esperanca is a Push map in Overwatch."
+    },
+    {
+      "word": "HANAMURA",
+      "hint": "Map name",
+      "img": "/maps/hanamura.png",
+      "explain": "Hanamura is an Assault map in Overwatch."
+    },
+    {
+      "word": "HANAOKA",
+      "hint": "Map name",
+      "img": "/maps/hanaoka.png",
+      "explain": "Hanaoka is a Clash map in Overwatch."
+    },
+    {
+      "word": "HAVANA",
+      "hint": "Map name",
+      "img": "/maps/havana.png",
+      "explain": "Havana is an Escort map in Overwatch."
+    },
+    {
+      "word": "HOLLYWOOD",
+      "hint": "Map name",
+      "img": "/maps/hollywood.png",
+      "explain": "Hollywood is a Hybrid map in Overwatch."
+    },
+    {
+      "word": "HORIZON LUNAR COLONY",
+      "hint": "Map name",
+      "img": "/maps/horizonlunarcolony.png",
+      "explain": "Horizon Lunar Colony is an Assault map in Overwatch."
+    },
+    {
+      "word": "ILIOS",
+      "hint": "Map name",
+      "img": "/maps/ilios.png",
+      "explain": "Ilios is a Control map in Overwatch."
+    },
+    {
+      "word": "JUNKERTOWN",
+      "hint": "Map name",
+      "img": "/maps/junkertown.png",
+      "explain": "Junkertown is an Escort map in Overwatch."
+    },
+    {
+      "word": "KINGS ROW",
+      "hint": "Map name",
+      "img": "/maps/kingsrow.png",
+      "explain": "King's Row is a Hybrid map in Overwatch."
+    },
+    {
+      "word": "LIJIANG TOWER",
+      "hint": "Map name",
+      "img": "/maps/lijiangtower.png",
+      "explain": "Lijiang Tower is a Control map in Overwatch."
+    },
+    {
+      "word": "MIDTOWN",
+      "hint": "Map name",
+      "img": "/maps/midtown.png",
+      "explain": "Midtown is a Hybrid map in Overwatch."
+    },
+    {
+      "word": "NEPAL",
+      "hint": "Map name",
+      "img": "/maps/nepal.png",
+      "explain": "Nepal is a Control map in Overwatch."
+    },
+    {
+      "word": "NEW JUNK CITY",
+      "hint": "Map name",
+      "img": "/maps/newjunkcity.png",
+      "explain": "New Junk City is a Flashpoint map in Overwatch."
+    },
+    {
+      "word": "NEW QUEEN STREET",
+      "hint": "Map name",
+      "img": "/maps/newqueenstreet.png",
+      "explain": "New Queen Street is a Push map in Overwatch."
+    },
+    {
+      "word": "NUMBANI",
+      "hint": "Map name",
+      "img": "/maps/numbani.png",
+      "explain": "Numbani is a Hybrid map in Overwatch."
+    },
+    {
+      "word": "OASIS",
+      "hint": "Map name",
+      "img": "/maps/oasis.png",
+      "explain": "OASIS is a Control map in Overwatch."
+    },
+    {
+      "word": "PARAISO",
+      "hint": "Map name",
+      "img": "/maps/paraiso.png",
+      "explain": "Paraiso is a Hybrid map in Overwatch."
+    },
+    {
+      "word": "PARIS",
+      "hint": "Map name",
+      "img": "/maps/paris.png",
+      "explain": "Paris is an Assault map in Overwatch."
+    },
+    {
+      "word": "RIALTO",
+      "hint": "Map name",
+      "img": "/maps/rialto.png",
+      "explain": "Rialto is a Escort map in Overwatch."
+    },
+    {
+      "word": "RUNASAPI",
+      "hint": "Map name",
+      "img": "/maps/runasapi.png",
+      "explain": "Runasapi is a Push map in Overwatch."
+    },
+    {
+      "word": "SAMOA",
+      "hint": "Map name",
+      "img": "/maps/samoa.png",
+      "explain": "Samoa is a Control map in Overwatch."
+    },
+    {
+      "word": "SHAMBALI MONASTERY",
+      "hint": "Map name",
+      "img": "/maps/shambalimonastery.png",
+      "explain": "Shambali Monastery is a Escort map in Overwatch."
+    },
+    {
+      "word": "SURAVASA",
+      "hint": "Map name",
+      "img": "/maps/suravasa.png",
+      "explain": "Suravasa is a Flashpoint map in Overwatch."
+    },
+    {
+      "word": "TEMPLE OF ANUBIS",
+      "hint": "Map name",
+      "img": "/maps/templeofanubis.png",
+      "explain": "Temple of Anubis is an Assault map in Overwatch."
+    },
+    {
+      "word": "THRONE OF ANUBIS",
+      "hint": "Map name",
+      "img": "/maps/throneofanubis.png",
+      "explain": "Throne of Anubis is a Clash map in Overwatch."
+    },
+    {
+      "word": "VOLSKAYA INDUSTRIES",
+      "hint": "Map name",
+      "img": "/maps/volskayaindustries.png",
+      "explain": "Volskaya Industries is an Assault map in Overwatch."
+    },
+    {
+      "word": "WATCHPOINT GIBRALTAR",
+      "hint": "Map name",
+      "img": "/maps/watchpointgibraltar.png",
+      "explain": "Watchpoint Gibraltar is an Escort map in Overwatch."
+    }
+  ],
+  "Abilities": [
+    {
+      "word": "DEFENSE MATRIX",
+      "hint": "Ability name",
+      "img": "/abilities/defensematrix.png",
+      "explain": "[D.Va] Block projectiles in an area in front of you."
+    },
+    {
+      "word": "BOOSTERS",
+      "hint": "Ability name",
+      "img": "/abilities/boosters.png",
+      "explain": "[D.Va] Fly in the direction you are facing."
+    },
+    {
+      "word": "MICRO MISSILES",
+      "hint": "Ability name",
+      "img": "/abilities/micromissiles.png",
+      "explain": "[D.Va] Launch a volley of explosive rockets."
+    },
+    {
+      "word": "BARRIER ARRAY",
+      "hint": "Ability name",
+      "img": "/abilities/barrierarray.png",
+      "explain": "[Domina] Construct a segmented barrier."
+    },
+    {
+      "word": "SONIC REPULSORS",
+      "hint": "Ability name",
+      "img": "/abilities/sonicrepulsors.png",
+      "explain": "[Domina] Push enemies back, stunning them if they hit a wall."
+    },
+    {
+      "word": "CRYSTAL CHARGE",
+      "hint": "Ability name",
+      "img": "/abilities/crystalcharge.png",
+      "explain": "[Domina] Project an explosive crystal and reactivate to detonate it."
+    },
+    {
+      "word": "ROCKET PUNCH",
+      "hint": "Ability name",
+      "img": "/abilities/rocketpunch.png",
+      "explain": "[Doomfist] Hold to charge then release to launch forward and knock an enemy back. Damage increases if the enemy hits a wall."
+    },
+    {
+      "word": "SEISMIC SLAM",
+      "hint": "Ability name",
+      "img": "/abilities/seismicslam.png",
+      "explain": "[Doomfist] Leap forward and smash the ground."
+    },
+    {
+      "word": "POWER BLOCK",
+      "hint": "Ability name",
+      "img": "/abilities/powerblock.png",
+      "explain": "[Doomfist] Protect yourself from frontal attacks. Blocking heavy damage empowers Rocket Punch."
+    },
+    {
+      "word": "SPIKE GUARD",
+      "hint": "Ability name",
+      "img": "/abilities/spikeguard.png",
+      "explain": "[Hazard] Protect yourself from frontal damage. Firing homing spikes at nearby enemies and regenerating ammo."
+    },
+    {
+      "word": "VIOLENT LEAP",
+      "hint": "Ability name",
+      "img": "/abilities/violentleap.png",
+      "explain": "[Hazard] Lunge forward. Activate again to slash enemies, knocking them back."
+    },
+    {
+      "word": "JAGGED WALL",
+      "hint": "Ability name",
+      "img": "/abilities/jaggedwall.png",
+      "explain": "[Hazard] Launch a spiked wall that damages and knocks back nearby enemies."
+    },
+    {
+      "word": "JAGGED BLADE",
+      "hint": "Ability name",
+      "img": "/abilities/jaggedblade.png",
+      "explain": "[Junker Queen] Active: Throw the blade. Re-activate to pull it back with any impaled enemy. Passive: Wound enemies hit by Quick Melee or Throw, dealing damage over time."
+    },
+    {
+      "word": "COMMANDING SHOUT",
+      "hint": "Ability name",
+      "img": "/abilities/commandingshout.png",
+      "explain": "[Junker Queen] Grants temporary health and movement speed to yourself and allies."
+    },
+    {
+      "word": "CARNAGE",
+      "hint": "Ability name",
+      "img": "/abilities/carnage.png",
+      "explain": "[Junker Queen] Wound all enemies in front of you, dealing damage over time and reducing the cooldown for each enemy hit."
+    },
+    {
+      "word": "OVERRUN",
+      "hint": "Ability name",
+      "img": "/abilities/overrun.png",
+      "explain": "[Mauga] Charge forward to stomp and launch enemies. You are unstoppable while charging."
+    },
+    {
+      "word": "CARDIAC OVERDRIVE",
+      "hint": "Ability name",
+      "img": "/abilities/cardiacoverdrive.png",
+      "explain": "[Mauga] Gain damage reduction and nearby allies heal themselves by dealing damage."
+    },
+    {
+      "word": "ENERGY JAVELIN",
+      "hint": "Ability name",
+      "img": "/abilities/energyjavelin.png",
+      "explain": "[Orisa] Launch your javelin at an enemy to stun and knock them back. More effective if the enemy hits a wall."
+    },
+    {
+      "word": "FORTIFY",
+      "hint": "Ability name",
+      "img": "/abilities/fortify.png",
+      "explain": "[Orisa] Gain temporary health, reducing all damage taken and becoming unstoppable."
+    },
+    {
+      "word": "JAVELIN SPIN",
+      "hint": "Ability name",
+      "img": "/abilities/javelinspin.png",
+      "explain": "[Orisa] Spin your javelin to destroy projectiles and block melee attacks, while also pushing enemies and increasing forward speed."
+    },
+    {
+      "word": "VOID BARRIER",
+      "hint": "Ability name",
+      "img": "/abilities/voidbarrier.png",
+      "explain": "[Ramattra] Create a barrier at the targeted location."
+    },
+    {
+      "word": "NEMESIS FORM",
+      "hint": "Ability name",
+      "img": "/abilities/nemesisform.png",
+      "explain": "[Ramattra] Transform into Nemesis Form, changing your attacks and gaining bonus armor."
+    },
+    {
+      "word": "BLOCK",
+      "hint": "Ability name",
+      "img": "/abilities/block.png",
+      "explain": "[Ramattra] Significantly reduces damage taken from the front and reduces movement speed."
+    },
+    {
+      "word": "RAVENOUS VORTEX",
+      "hint": "Ability name",
+      "img": "/abilities/ravenousvortex.png",
+      "explain": "[Ramattra] Fire a sphere of energy that creates a slowing vortex on the ground, damaging enemies within and pulling them downward."
+    },
+    {
+      "word": "BARRIER FIELD",
+      "hint": "Ability name",
+      "img": "/abilities/barrierfield.png",
+      "explain": "[Reinhardt] Hold Secondary Fire to deploy a frontal energy barrier."
+    },
+    {
+      "word": "CHARGE",
+      "hint": "Ability name",
+      "img": "/abilities/charge.png",
+      "explain": "[Reinhardt] Charge forward and smash an enemy against a wall."
+    },
+    {
+      "word": "FIRE STRIKE",
+      "hint": "Ability name",
+      "img": "/abilities/firestrike.png",
+      "explain": "[Reinhardt] Launch a fiery projectile."
+    },
+    {
+      "word": "CHAIN HOOK",
+      "hint": "Ability name",
+      "img": "/abilities/chainhook.png",
+      "explain": "[Roadhog] Drag a targeted enemy to you."
+    },
+    {
+      "word": "TAKE A BREATHER",
+      "hint": "Ability name",
+      "img": "/abilities/takeabreather.png",
+      "explain": "[Roadhog] Heal yourself and reduce damage taken."
+    },
+    {
+      "word": "EXPERIMENTAL BARRIER",
+      "hint": "Ability name",
+      "img": "/abilities/experimentalbarrier.png",
+      "explain": "[Sigma] Hold to propel a floating barrier; release to stop. Press again to recall the barrier to you."
+    },
+    {
+      "word": "KINETIC GRASP",
+      "hint": "Ability name",
+      "img": "/abilities/kineticgrasp.png",
+      "explain": "[Sigma] Absorb projectiles in front of you and convert them into extra health."
+    },
+    {
+      "word": "ACCRETION",
+      "hint": "Ability name",
+      "img": "/abilities/accretion.png",
+      "explain": "[Sigma] Gather a mass of debris and throw it at an enemy to knock them down."
+    },
+    {
+      "word": "JUMP PACK",
+      "hint": "Ability name",
+      "img": "/abilities/jumppack.png",
+      "explain": "[Winston] Leap forward into the air. Landing on an enemy damages them."
+    },
+    {
+      "word": "BARRIER PROJECTOR",
+      "hint": "Ability name",
+      "img": "/abilities/barrierprojector.png",
+      "explain": "[Winston] Deploy a protective energy dome."
+    },
+    {
+      "word": "GRAPPLING CLAW",
+      "hint": "Ability name",
+      "img": "/abilities/grapplingclaw.png",
+      "explain": "[Wrecking Ball] Launch a grappling claw to rapidly swing around the area. Enables high speed collisions to damage and knockback enemies."
+    },
+    {
+      "word": "ROLL",
+      "hint": "Ability name",
+      "img": "/abilities/roll.png",
+      "explain": "[Wrecking Ball] Transform into a ball and increase maximum movement speed."
+    },
+    {
+      "word": "ADAPTIVE SHIELD",
+      "hint": "Ability name",
+      "img": "/abilities/adaptiveshield.png",
+      "explain": "[Wrecking Ball] Create temporary extra health that increase with more nearby enemies. Some of the health can be transferred to allies."
+    },
+    {
+      "word": "PILEDRIVER",
+      "hint": "Ability name",
+      "img": "/abilities/piledriver.png",
+      "explain": "[Wrecking Ball] Slam into the ground below to damage and launch enemies upward."
+    },
+    {
+      "word": "PARTCLE BARRIER",
+      "hint": "Ability name",
+      "img": "/abilities/particlebarrier.png",
+      "explain": "[Zarya] Create a damage barrier around you."
+    },
+    {
+      "word": "PROJECTED BARRIER",
+      "hint": "Ability name",
+      "img": "/abilities/projectedbarrier.png",
+      "explain": "[Zarya] Create a damage barrier around an ally."
+    },
+    {
+      "word": "INFERNO RUSH",
+      "hint": "Ability name",
+      "img": "/abilities/infernorush.png",
+      "explain": "[Anran] Propel yourself forward and damage enemies you impact."
+    },
+    {
+      "word": "DANCING BLAZE",
+      "hint": "Ability name",
+      "img": "/abilities/dancingblaze.png",
+      "explain": "[Anran] Strike nearby enemies while dodging all damage."
+    },
+    {
+      "word": "COACH GUN",
+      "hint": "Ability name",
+      "img": "/abilities/coachgun.png",
+      "explain": "[Ashe] Blast enemies in front of you and knock yourself backwards."
+    },
+    {
+      "word": "DYNAMITE",
+      "hint": "Ability name",
+      "img": "/abilities/dynamite.png",
+      "explain": "[Ashe] Throw an explosive that detonates after a short delay or immediately when shot."
+    },
+    {
+      "word": "TACTICAL GRENADE",
+      "hint": "Ability name",
+      "img": "/abilities/tacticalgrenade.png",
+      "explain": "[Bastion] Fire a bomb that bounces off walls and explodes when it hits enemies or the ground."
+    },
+    {
+      "word": "RECONFIGURE",
+      "hint": "Ability name",
+      "img": "/abilities/reconfigure.png",
+      "explain": "[Bastion] Switch between weapon configurations."
+    },
+    {
+      "word": "COMBAT ROLL",
+      "hint": "Ability name",
+      "img": "/abilities/combatroll.png",
+      "explain": "[Cassidy] Roll in the direction you're moving to take reduced damage and reload."
+    },
+    {
+      "word": "FLASHBANG",
+      "hint": "Ability name",
+      "img": "/abilities/flashbang.png",
+      "explain": "[Cassidy] Hinder enemies in front of you, slowing them and preventing them from using movement abilities."
+    },
+    {
+      "word": "STICKY BOMBS",
+      "hint": "Ability name",
+      "img": "/abilities/stickybombs.png",
+      "explain": "[Echo] Fire a volley of sticky bombs that detonate after a delay."
+    },
+    {
+      "word": "FLIGHT",
+      "hint": "Ability name",
+      "img": "/abilities/flight.png",
+      "explain": "[Flight] Fly forward quickly and then free-fly briefly."
+    },
+    {
+      "word": "FOCUSING BEAM",
+      "hint": "Ability name",
+      "img": "/abilities/focusingbeam.png",
+      "explain": "[Echo] Channel a beam for a few seconds. Deals very high damage to targets under half health."
+    },
+    {
+      "word": "SIPHON BLASTER",
+      "hint": "Ability name",
+      "img": "/abilities/siphonblaster.png",
+      "explain": "[Emre] Temporarily wield a semi-automatic pistol with lifestealing explosive rounds. Move faster and jump higher while wielded."
+    },
+    {
+      "word": "CYBER FRAG",
+      "hint": "Ability name",
+      "img": "/abilities/cyberfrag.png",
+      "explain": "[Emre] Throw a grenade that detonates shortly after bouncing."
+    },
+    {
+      "word": "QUICK DASH",
+      "hint": "Ability name",
+      "img": "/abilities/quickdash.png",
+      "explain": "[Freja] Vault in the direction you're moving and refresh Take Aim."
+    },
+    {
+      "word": "UPDRAFT",
+      "hint": "Ability name",
+      "img": "/abilities/updraft.png",
+      "explain": "[Freja] Launch upward with a gust of wind."
+    },
+    {
+      "word": "SWIFT STRIKE",
+      "hint": "Ability name",
+      "img": "/abilities/swiftstrike.png",
+      "explain": "[Genji] Rapidly dash forward and inflict damage on enemies. Eliminations reset the cooldown."
+    },
+    {
+      "word": "DEFLECT",
+      "hint": "Ability name",
+      "img": "/abilities/deflect.png",
+      "explain": "[Genji] Deflect incoming projectiles towards the direction you are aiming and block melee attacks."
+    },
+    {
+      "word": "SONIC ARROW",
+      "hint": "Ability name",
+      "img": "/abilities/sonicarrow.png",
+      "explain": "[Hanzo] Reveals enemies for a short time upon impact."
+    },
+    {
+      "word": "STORM ARROWS",
+      "hint": "Ability name",
+      "img": "/abilities/stormarrows.png",
+      "explain": "[Hanzo] The next 5 arrows ricochet and fire instantly at reduced damage."
+    },
+    {
+      "word": "LUNGE",
+      "hint": "Ability name",
+      "img": "/abilities/.png",
+      "explain": "[Hanzo] Double Jump."
+    },
+    {
+      "word": "CONCUSSION MINE",
+      "hint": "Ability name",
+      "img": "/abilities/concussionmine.png",
+      "explain": "[Junkrat] Throw a knockback mine with LSHIFT then detonate it with Secondary Fire"
+    },
+    {
+      "word": "STEEL TRAP",
+      "hint": "Ability name",
+      "img": "/abilities/streeltrap.png",
+      "explain": "[Junkrat] Place an immobilizing trap."
+    },
+    {
+      "word": "CRYO FREEZE",
+      "hint": "Ability name",
+      "img": "/abilities/cryofreeze.png",
+      "explain": "[Mei] Become invulnerable and heal yourself."
+    },
+    {
+      "word": "ICE WALL",
+      "hint": "Ability name",
+      "img": "/abilities/icewall.png",
+      "explain": "[Mei] Create a wall in front of you."
+    },
+    {
+      "word": "JET DASH",
+      "hint": "Ability name",
+      "img": "/abilities/jetdash.png",
+      "explain": "[Pharah] Boost horizontally."
+    },
+    {
+      "word": "JUMP JET",
+      "hint": "Ability name",
+      "img": "/abilities/jumpjet.png",
+      "explain": "[Pharah] Fly rapidly upwards. Grants some fuel."
+    },
+    {
+      "word": "CONCUSSIVE BLAST",
+      "hint": "Ability name",
+      "img": "/abilities/concussiveblast.png",
+      "explain": "[Pharah] Launch an explosive blast to knock back enemies."
+    },
+    {
+      "word": "WRAITH FORM",
+      "hint": "Ability name",
+      "img": "/abilities/wraithform.png",
+      "explain": "[Reaper] Move faster and become invulnerable, but you cannot shoot."
+    },
+    {
+      "word": "SHADOW STEP",
+      "hint": "Ability name",
+      "img": "/abilities/shadowstep.png",
+      "explain": "[Reaper] Teleport to a targeted location."
+    },
+    {
+      "word": "CHARGED SHOT",
+      "hint": "Ability name",
+      "img": "/abilities/chargedshot.png",
+      "explain": "[Sojourn]High impact shot that consumes stored energy and pierces enemies."
+    },
+    {
+      "word": "POWER SLIDE",
+      "hint": "Ability name",
+      "img": "/abilities/powerslide.png",
+      "explain": "Ground slide that can cancel into a high jump."
+    },
+    {
+      "word": "DISRUPTOR SHOT",
+      "hint": "Ability name",
+      "img": "/abilities/disruptorshot.png",
+      "explain": "[Sojourn] Launch an energy burst that deals damage to enemies within it."
+    },
+    {
+      "word": "HELIX ROCKETS",
+      "hint": "Ability name",
+      "img": "/abilities/helixrockets.png",
+      "explain": "[Soldier: 76] Launch a volley of explosive rockets."
+    },
+    {
+      "word": "SPRINT",
+      "hint": "Ability name",
+      "img": "/abilities/sprint.png",
+      "explain": "[Soldier: 76] Run faster while moving forward."
+    },
+    {
+      "word": "BIOTIC FIELD",
+      "hint": "Ability name",
+      "img": "/abilities/bioticfield.png",
+      "explain": "[Soldier: 76] Deploy a field that heals you and your allies."
+    },
+    {
+      "word": "HACK",
+      "hint": "Ability name",
+      "img": "/abilities/hack.png",
+      "explain": "[Sombra] Hold to hack. Hacked enemies cannot use abilities and can be seen through walls. Hacked health packs spawn faster and can't be used by enemies. Taking damage interrupts the hack attempt."
+    },
+    {
+      "word": "VIRUS",
+      "hint": "Ability name",
+      "img": "/abilities/virus.png",
+      "explain": "[Sombra] Infect enemies with a projectile that deals damage over time. Virus damages hacked targets at a faster rate."
+    },
+    {
+      "word": "TRANSLOCATOR",
+      "hint": "Ability name",
+      "img": "/abilities/translocator.png",
+      "explain": "[Sombra] Throw a beacon and teleport to it. Become stealthed for a short duration after teleporting."
+    },
+    {
+      "word": "SENTRY TURRET",
+      "hint": "Ability name",
+      "img": "/abilities/sentryturret.png",
+      "explain": "[Symmetra] Deploy a small turret that damages and slows enemies."
+    },
+    {
+      "word": "TELEPORTER",
+      "hint": "Ability name",
+      "img": "/abilities/teleporter.png",
+      "explain": "[Symmetra] Create two temporary teleporters that enable instance travel between them."
+    },
+    {
+      "word": "DEPLOY TURRET",
+      "hint": "Ability name",
+      "img": "/abilities/deployturret.png",
+      "explain": "[Torbjorn] Deploy a self-building turret."
+    },
+    {
+      "word": "OVERLOAD",
+      "hint": "Ability name",
+      "img": "/abilities/overload.png",
+      "explain": "[Torbjorn] Gain additional extra health as well as improved attack, movement, and reload speed."
+    },
+    {
+      "word": "BLINK",
+      "hint": "Ability name",
+      "img": "/abilities/blink.png",
+      "explain": "[Tracer] Teleport in the direction you are moving."
+    },
+    {
+      "word": "RECALL",
+      "hint": "Ability name",
+      "img": "/abilities/recall.png",
+      "explain": "[Tracer] Travel back in time to your previous location and health."
+    },
+    {
+      "word": "WARDING STANCE",
+      "hint": "Ability name",
+      "img": "/abilities/wardingstance.png",
+      "explain": "[Vendetta] Block with your sword, reducing frontal damage and deflecting melee attacks. Blocking damage depletes energy."
+    },
+    {
+      "word": "SOARING SLICE",
+      "hint": "Ability name",
+      "img": "/abilities/soaringslice.png",
+      "explain": "[Vendetta] Hurl your sword in the direction you are facing and then fly to it."
+    },
+    {
+      "word": "PROJECTED EDGE",
+      "hint": "Ability name",
+      "img": "/abilities/projectededge.png",
+      "explain": "[Vendetta] Available when Warding Stance is active. Consume energy to fire a wide projectile."
+    },
+    {
+      "word": "WHIRLWIND DASH",
+      "hint": "Ability name",
+      "img": "/abilities/whirlwinddash.png",
+      "explain": "[Vendetta] Rush forward into a circular slash."
+    },
+    {
+      "word": "DRILL DASH",
+      "hint": "Ability name",
+      "img": "/abilities/drilldash.png",
+      "explain": "[Venture] Dash forward while above or underground, pushing enemies back. The cooldown is accelerated while underground."
+    },
+    {
+      "word": "BURROW",
+      "hint": "Ability name",
+      "img": "/abilities/burrow.png",
+      "explain": "[Venture] Move underground and become invulnerable. Emerge to deal damage."
+    },
+    {
+      "word": "GRAPPLING HOOK",
+      "hint": "Ability name",
+      "img": "/abilities/grapplinghook.png",
+      "explain": "[Widowmaker] Launch a hook that pulls you towards a ledge."
+    },
+    {
+      "word": "VENOM MINE",
+      "hint": "Ability name",
+      "img": "/abilities/venommine.png",
+      "explain": "[Widowmaker] Launch a poison trap."
+    },
+    {
+      "word": "SLEEP DART",
+      "hint": "Ability name",
+      "img": "/abilities/sleepdart.png",
+      "explain": "[Ana] Fires a dart that puts an enemy to sleep."
+    },
+    {
+      "word": "BIOTIC GRENADE",
+      "hint": "Ability name",
+      "img": "/abilities/bioticgrenade.png",
+      "explain": "[Ana] Throws a grenade that heals and increases healing on allies, while damaging and preventing healing on enemies."
+    },
+    {
+      "word": "REGENERATIVE BURST",
+      "hint": "Ability name",
+      "img": "/abilities/regenerativeburst.png",
+      "explain": "[Baptiste] Activate to heal yourself and nearby allies instantly, with additional healing over time. Instant heal is doubled for targets less than half health."
+    },
+    {
+      "word": "IMMORTALITY FIELD",
+      "hint": "Ability name",
+      "img": "/abilities/immortalityfield.png",
+      "explain": "[Baptiste] Toss a device that prevents allies from dying. The device can be destroyed."
+    },
+    {
+      "word": "BARRIER SHIELD",
+      "hint": "Ability name",
+      "img": "/abilities/barriershield.png",
+      "explain": "[Brigitte] Hold Secondary Fire to deploy a frontal energy barrier."
+    },
+    {
+      "word": "SHIELD BASH",
+      "hint": "Ability name",
+      "img": "/abilities/shieldbash.png",
+      "explain": "[Brigitte] Available when Barrier Shield is deployed. Dash forward to knock back an enemy."
+    },
+    {
+      "word": "WHIP SHOT",
+      "hint": "Ability name",
+      "img": "/abilities/whipshot.png",
+      "explain": "[Brigitte] Launch your flail forward to knock an enemy away from you."
+    },
+    {
+      "word": "REPAIR PACK",
+      "hint": "Ability name",
+      "img": "/abilities/repairpack.png",
+      "explain": "[Brigitte] Heals an ally for a short duration."
+    },
+    {
+      "word": "OUTBURST",
+      "hint": "Ability name",
+      "img": "/abilities/outburst.png",
+      "explain": "[Illari] Launches you in the direction you are moving. Knocking back enemies. Hold jump to go higher."
+    },
+    {
+      "word": "HEALING PYLON",
+      "hint": "Ability name",
+      "img": "/abilities/healingpylon.png",
+      "explain": "[Illari] Deploy a pylon that heals allies."
+    },
+    {
+      "word": "FRENETIC FLIGHT",
+      "hint": "Ability name",
+      "img": "/abilities/freneticflight.png",
+      "explain": "[Jetpack Cat] Accelerate in your movement direction. Fuel recovery is slower while carrying another player."
+    },
+    {
+      "word": "LIFELINE",
+      "hint": "Ability name",
+      "img": "/abilities/lifeline.png",
+      "explain": "[Jetpack Cat] Toggle into transport mode, allowing an ally to be towed. Increases movement speed and heals your ally."
+    },
+    {
+      "word": "PURR",
+      "hint": "Ability name",
+      "img": "/abilities/purr.png",
+      "explain": "[Jetpack Cat] Pulsing area heal that increases in frequency over time. Knockback nearby enemies when activated."
+    },
+    {
+      "word": "PULSAR TORPEDOES",
+      "hint": "Ability name",
+      "img": "/abilities/pulsartorpedoes.png",
+      "explain": "[Juno] Press Secondary Fire to lock on, then Primary Fire to fire homing projectiles. Heals allies over time and damages enemies."
+    },
+    {
+      "word": "GLIDE BOOST",
+      "hint": "Ability name",
+      "img": "/abilities/glideboost.png",
+      "explain": "[Juno] Glide horizontally with increased movement speed."
+    },
+    {
+      "word": "HYPER RING",
+      "hint": "Ability name",
+      "img": "/abilities/hyperring.png",
+      "explain": "[Juno] Deploy a ring that increases movement speed of allies that pass through it."
+    },
+    {
+      "word": "SWIFT STEP",
+      "hint": "Ability name",
+      "img": "/abilities/swiftstep.png",
+      "explain": "[Kiriko] Teleport directly to an ally."
+    },
+    {
+      "word": "PROTECTION SUZU",
+      "hint": "Ability name",
+      "img": "/abilities/protectionsuzu.png",
+      "explain": "[Kiriko] Throw a protective charm to make allies become briefly invulnerable and cleansed of most negative effects."
+    },
+    {
+      "word": "PETAL PLATFORM",
+      "hint": "Ability name",
+      "img": "/abilities/petalplatform.png",
+      "explain": "[Lifeweaver] Throw a platform that springs upwards when stepped on. Resets when not in use."
+    },
+    {
+      "word": "REJUVENATING DASH",
+      "hint": "Ability name",
+      "img": "/abilities/rejuvenatingdash.png",
+      "explain": "[Lifeweaver] Dash towards your traveling direction and lightly heal yourself."
+    },
+    {
+      "word": "LIFE GRIP",
+      "hint": "Ability name",
+      "img": "/abilities/lifegrip.png",
+      "explain": "[Lifeweaver] Pull an ally to your location, protecting them as they travel."
+    },
+    {
+      "word": "SOUNDWAVE",
+      "hint": "Ability name",
+      "img": "/abilities/soundwave.png",
+      "explain": "[Lucio] Create a short-range blast wave to knock enemies away from you."
+    },
+    {
+      "word": "CROSSFADE",
+      "hint": "Ability name",
+      "img": "/abilities/crossfade.png",
+      "explain": "[Lucio] Switches between two songs: Healing Boost heals nearby allies, and Speed Boost makes nearby allies move faster."
+    },
+    {
+      "word": "AMP IT UP",
+      "hint": "Ability name",
+      "img": "/abilities/ampitup.png",
+      "explain": "[Lucio] Increase the effectiveness of your current song."
+    },
+    {
+      "word": "GUARDIAN ANGEL",
+      "hint": "Ability name",
+      "img": "/abilities/guardianangel.png",
+      "explain": "[Mercy] Fly towards an ally. While in flight, Jump launches you forward, and and Crouch launches you upward."
+    },
+    {
+      "word": "RESURRECT",
+      "hint": "Ability name",
+      "img": "/abilities/resurrect.png",
+      "explain": "[Mercy] Revive a dead teammate."
+    },
+    {
+      "word": "HEALING KASA",
+      "hint": "Ability name",
+      "img": "/abilities/healingkasa.png",
+      "explain": "[Mizuki] Throw your hat to heal an ally, bouncing to nearby allies and healing you when it returns."
+    },
+    {
+      "word": "KATASHIRO RETURN",
+      "hint": "Ability name",
+      "img": "/abilities/katashiroreturn.png",
+      "explain": "[Mizuki] Leap forward, leaving behind a paper doll. Reactivate to return and gain increased movement speed while active."
+    },
+    {
+      "word": "BINDING CHAIN",
+      "hint": "Ability name",
+      "img": "/abilities/bindingchain.png",
+      "explain": "[Mizuki] Launch a tethering chain that hinders the first enemy hit."
+    },
+    {
+      "word": "FADE",
+      "hint": "Ability name",
+      "img": "/abilities/fade.png",
+      "explain": "[Moira] Disappear, move faster, and become invulnerable, but you cannot shoot."
+    },
+    {
+      "word": "BIOTIC ORB",
+      "hint": "Ability name",
+      "img": "/abilities/bioticorb.png",
+      "explain": "[Moira] Launch a bouncing sphere that either heals nearby allies or damages nearby enemies."
+    },
+    {
+      "word": "RUSHING TORRENT",
+      "hint": "Ability name",
+      "img": "/abilities/rushingtorrent.png",
+      "explain": "[Wuyang] Ride water to move faster and jump higher."
+    },
+    {
+      "word": "GUARDIAN WAVE",
+      "hint": "Ability name",
+      "img": "/abilities/guardianwave.png",
+      "explain": "[Wuyang] Send a water wave forward that increases the amount of healing received by allies and knocks back enemies."
+    },
+    {
+      "word": "ORB OF HARMONY",
+      "hint": "Ability name",
+      "img": "/abilities/orbofharmony.png",
+      "explain": "[Zenyatta] Launch this orb at an ally to heal them."
+    },
+    {
+      "word": "ORB OF DISCORD",
+      "hint": "Ability name",
+      "img": "/abilities/orbofdiscord.png",
+      "explain": "[Zenyatta] Launch this orb at an enemy to increase the damage they take."
+    }
+  ]
+}
