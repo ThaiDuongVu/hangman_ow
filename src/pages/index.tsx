@@ -2,7 +2,7 @@ import Header from "@/components/header";
 import LetterButton from "@/components/letter-button";
 import Image from "next/image";
 import { replaceAt } from "@/helper";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 interface WordData {
   word: string;
@@ -46,30 +46,28 @@ const Game = () => {
     const res = await fetch("/data.json");
     const data = await res.json();
     // Handle category selection based on pregame checkboxes
-    if (heroesChecked) {
+    if (heroesChecked)
       data.Heroes.forEach((hero: WordData) => {
         wordData.push(hero);
       });
-    }
-    if (mapsChecked) {
+
+    if (mapsChecked)
       data.Maps.forEach((map: WordData) => {
         wordData.push(map);
       });
-    }
-    if (abilitiesChecked) {
+
+    if (abilitiesChecked)
       data.Abilities.forEach((ability: WordData) => {
         wordData.push(ability);
       });
-    }
-    if (ultimatesChecked) {
+
+    if (ultimatesChecked)
       data.Ultimates.forEach((ability: WordData) => {
         wordData.push(ability);
       });
-    }
 
-    if (wordData.length === 0) {
-      return null;
-    }
+    if (wordData.length === 0) return null;
+
     const index = Math.floor(Math.random() * wordData.length);
     return {
       word: wordData[index].word,
@@ -81,7 +79,7 @@ const Game = () => {
 
   //#region State Management
 
-  const startGame = async () => {
+  const enterGame = async () => {
     // Initialize word and guess
     const wordData = await getWordData();
     if (!wordData) {
@@ -111,11 +109,11 @@ const Game = () => {
     setGameState("in-progress");
   }
 
-  const pregame = () => {
+  const enterPregame = () => {
     setGameState("pregame");
   }
 
-  const postgame = () => {
+  const enterPostgame = () => {
     setGameState("postgame");
   }
 
@@ -128,7 +126,7 @@ const Game = () => {
     if (!word.includes(letter)) {
       setIncorrectGuesses(incorrectGuesses + 1);
       // Check lose condition
-      if (incorrectGuesses >= MAX_INCORRECT_GUESSES) setTimeout(postgame, 500);
+      if (incorrectGuesses >= MAX_INCORRECT_GUESSES) setTimeout(enterPostgame, 500);
       return;
     }
 
@@ -143,9 +141,24 @@ const Game = () => {
 
     // Check win condition
     if (correctGuesses >= correctGuessesRequired - 1)
-      setTimeout(postgame, 500);
+      setTimeout(enterPostgame, 500);
     setCorrectGuesses(correctGuesses + 1);
   }
+
+  const handleKeyPress = (event: KeyboardEvent) => {
+    if (!event.key.match(/[a-z]/i)) return;
+    if (gameState != "in-progress") return;
+    const upperKey = event.key.toUpperCase();
+    if (guessedLetters.includes(upperKey)) return;
+    guessLetter(upperKey);
+  }
+
+  useEffect(() => {
+    window.addEventListener("keydown", handleKeyPress);
+    return () => {
+      window.removeEventListener("keydown", handleKeyPress);
+    };
+  });
 
   //#region Display Components
 
@@ -188,7 +201,7 @@ const Game = () => {
         </div>
 
         <br />
-        <button type="button" className="btn btn-info" onClick={startGame}>Start Game</button>
+        <button type="button" className="btn btn-info" onClick={enterGame}>Start Game</button>
       </div>
     )
   }
@@ -240,9 +253,10 @@ const Game = () => {
           <LetterButton letter="Y" onClick={() => guessLetter("Y")} disabled={guessedLetters.includes("Y")} />
           <LetterButton letter="Z" onClick={() => guessLetter("Z")} disabled={guessedLetters.includes("Z")} />
         </div>
+        <p>or use keyboard for input</p>
 
         <hr />
-        <button type="button" className="btn btn-danger" onClick={pregame}>End Game</button>
+        <button type="button" className="btn btn-danger" onClick={enterPregame}>End Game</button>
       </div>
     )
   }
@@ -283,10 +297,10 @@ const Game = () => {
         <p className="fs-5">{explain}</p>
         <div className="row">
           <div className="col text-end">
-            <button type="button" className="btn btn-info" onClick={startGame}>Restart</button>
+            <button type="button" className="btn btn-info" onClick={enterGame}>Restart</button>
           </div>
           <div className="col text-start">
-            <button type="button" className="btn btn-primary" onClick={pregame}>Back</button>
+            <button type="button" className="btn btn-primary" onClick={enterPregame}>Back</button>
           </div>
         </div>
       </div>
