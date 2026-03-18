@@ -39,6 +39,7 @@ const Game = () => {
   const [mapsChecked, setMapsChecked] = useState(true);
   const [abilitiesChecked, setAbilitiesChecked] = useState(true);
   const [ultimatesChecked, setUltimatesChecked] = useState(true);
+  const [qwertyKeyboard, setQwertyKeyboard] = useState(false);
 
   const getWordData = async () => {
     // Fetch and select a random word from the datase
@@ -75,6 +76,76 @@ const Game = () => {
       explain: wordData[index].explain,
       imgSrc: wordData[index].img
     };
+  }
+
+  const keyboardDisplay = () => {
+    return (
+      qwertyKeyboard
+        ?
+        <div>
+          <LetterButton letter="Q" onClick={() => guessLetter("Q")} disabled={guessedLetters.includes("Q")} />
+          <LetterButton letter="W" onClick={() => guessLetter("W")} disabled={guessedLetters.includes("W")} />
+          <LetterButton letter="E" onClick={() => guessLetter("E")} disabled={guessedLetters.includes("E")} />
+          <LetterButton letter="R" onClick={() => guessLetter("R")} disabled={guessedLetters.includes("R")} />
+          <LetterButton letter="T" onClick={() => guessLetter("T")} disabled={guessedLetters.includes("T")} />
+          <LetterButton letter="Y" onClick={() => guessLetter("Y")} disabled={guessedLetters.includes("Y")} />
+          <LetterButton letter="U" onClick={() => guessLetter("U")} disabled={guessedLetters.includes("U")} />
+          <LetterButton letter="I" onClick={() => guessLetter("I")} disabled={guessedLetters.includes("I")} />
+          <LetterButton letter="O" onClick={() => guessLetter("O")} disabled={guessedLetters.includes("O")} />
+          <LetterButton letter="P" onClick={() => guessLetter("P")} disabled={guessedLetters.includes("P")} />
+          <br />
+          <LetterButton letter="A" onClick={() => guessLetter("A")} disabled={guessedLetters.includes("A")} />
+          <LetterButton letter="S" onClick={() => guessLetter("S")} disabled={guessedLetters.includes("S")} />
+          <LetterButton letter="D" onClick={() => guessLetter("D")} disabled={guessedLetters.includes("D")} />
+          <LetterButton letter="F" onClick={() => guessLetter("F")} disabled={guessedLetters.includes("F")} />
+          <LetterButton letter="G" onClick={() => guessLetter("G")} disabled={guessedLetters.includes("G")} />
+          <LetterButton letter="H" onClick={() => guessLetter("H")} disabled={guessedLetters.includes("H")} />
+          <LetterButton letter="J" onClick={() => guessLetter("J")} disabled={guessedLetters.includes("J")} />
+          <LetterButton letter="K" onClick={() => guessLetter("K")} disabled={guessedLetters.includes("K")} />
+          <LetterButton letter="L" onClick={() => guessLetter("L")} disabled={guessedLetters.includes("L")} />
+          <br />
+          <LetterButton letter="Z" onClick={() => guessLetter("Z")} disabled={guessedLetters.includes("Z")} />
+          <LetterButton letter="X" onClick={() => guessLetter("X")} disabled={guessedLetters.includes("X")} />
+          <LetterButton letter="C" onClick={() => guessLetter("C")} disabled={guessedLetters.includes("C")} />
+          <LetterButton letter="V" onClick={() => guessLetter("V")} disabled={guessedLetters.includes("V")} />
+          <LetterButton letter="B" onClick={() => guessLetter("B")} disabled={guessedLetters.includes("B")} />
+          <LetterButton letter="N" onClick={() => guessLetter("N")} disabled={guessedLetters.includes("N")} />
+          <LetterButton letter="M" onClick={() => guessLetter("M")} disabled={guessedLetters.includes("M")} />
+        </div>
+        :
+        <div>
+          <LetterButton letter="A" onClick={() => guessLetter("A")} disabled={guessedLetters.includes("A")} />
+          <LetterButton letter="B" onClick={() => guessLetter("B")} disabled={guessedLetters.includes("B")} />
+          <LetterButton letter="C" onClick={() => guessLetter("C")} disabled={guessedLetters.includes("C")} />
+          <LetterButton letter="D" onClick={() => guessLetter("D")} disabled={guessedLetters.includes("D")} />
+          <LetterButton letter="E" onClick={() => guessLetter("E")} disabled={guessedLetters.includes("E")} />
+          <LetterButton letter="F" onClick={() => guessLetter("F")} disabled={guessedLetters.includes("F")} />
+          <br />
+          <LetterButton letter="G" onClick={() => guessLetter("G")} disabled={guessedLetters.includes("G")} />
+          <LetterButton letter="H" onClick={() => guessLetter("H")} disabled={guessedLetters.includes("H")} />
+          <LetterButton letter="I" onClick={() => guessLetter("I")} disabled={guessedLetters.includes("I")} />
+          <LetterButton letter="J" onClick={() => guessLetter("J")} disabled={guessedLetters.includes("J")} />
+          <LetterButton letter="K" onClick={() => guessLetter("K")} disabled={guessedLetters.includes("K")} />
+          <LetterButton letter="L" onClick={() => guessLetter("L")} disabled={guessedLetters.includes("L")} />
+          <br />
+          <LetterButton letter="M" onClick={() => guessLetter("M")} disabled={guessedLetters.includes("M")} />
+          <LetterButton letter="N" onClick={() => guessLetter("N")} disabled={guessedLetters.includes("N")} />
+          <LetterButton letter="O" onClick={() => guessLetter("O")} disabled={guessedLetters.includes("O")} />
+          <LetterButton letter="P" onClick={() => guessLetter("P")} disabled={guessedLetters.includes("P")} />
+          <LetterButton letter="Q" onClick={() => guessLetter("Q")} disabled={guessedLetters.includes("Q")} />
+          <LetterButton letter="R" onClick={() => guessLetter("R")} disabled={guessedLetters.includes("R")} />
+          <br />
+          <LetterButton letter="S" onClick={() => guessLetter("S")} disabled={guessedLetters.includes("S")} />
+          <LetterButton letter="T" onClick={() => guessLetter("T")} disabled={guessedLetters.includes("T")} />
+          <LetterButton letter="U" onClick={() => guessLetter("U")} disabled={guessedLetters.includes("U")} />
+          <LetterButton letter="V" onClick={() => guessLetter("V")} disabled={guessedLetters.includes("V")} />
+          <LetterButton letter="W" onClick={() => guessLetter("W")} disabled={guessedLetters.includes("W")} />
+          <LetterButton letter="X" onClick={() => guessLetter("X")} disabled={guessedLetters.includes("X")} />
+          <br />
+          <LetterButton letter="Y" onClick={() => guessLetter("Y")} disabled={guessedLetters.includes("Y")} />
+          <LetterButton letter="Z" onClick={() => guessLetter("Z")} disabled={guessedLetters.includes("Z")} />
+        </div>
+    )
   }
 
   //#region State Management
@@ -221,38 +292,11 @@ const Game = () => {
         <p className="fs-1">{guess}</p>
 
         {/* Letter buttons */}
-        <div>
-          <LetterButton letter="A" onClick={() => guessLetter("A")} disabled={guessedLetters.includes("A")} />
-          <LetterButton letter="B" onClick={() => guessLetter("B")} disabled={guessedLetters.includes("B")} />
-          <LetterButton letter="C" onClick={() => guessLetter("C")} disabled={guessedLetters.includes("C")} />
-          <LetterButton letter="D" onClick={() => guessLetter("D")} disabled={guessedLetters.includes("D")} />
-          <LetterButton letter="E" onClick={() => guessLetter("E")} disabled={guessedLetters.includes("E")} />
-          <LetterButton letter="F" onClick={() => guessLetter("F")} disabled={guessedLetters.includes("F")} />
-          <br />
-          <LetterButton letter="G" onClick={() => guessLetter("G")} disabled={guessedLetters.includes("G")} />
-          <LetterButton letter="H" onClick={() => guessLetter("H")} disabled={guessedLetters.includes("H")} />
-          <LetterButton letter="I" onClick={() => guessLetter("I")} disabled={guessedLetters.includes("I")} />
-          <LetterButton letter="J" onClick={() => guessLetter("J")} disabled={guessedLetters.includes("J")} />
-          <LetterButton letter="K" onClick={() => guessLetter("K")} disabled={guessedLetters.includes("K")} />
-          <LetterButton letter="L" onClick={() => guessLetter("L")} disabled={guessedLetters.includes("L")} />
-          <br />
-          <LetterButton letter="M" onClick={() => guessLetter("M")} disabled={guessedLetters.includes("M")} />
-          <LetterButton letter="N" onClick={() => guessLetter("N")} disabled={guessedLetters.includes("N")} />
-          <LetterButton letter="O" onClick={() => guessLetter("O")} disabled={guessedLetters.includes("O")} />
-          <LetterButton letter="P" onClick={() => guessLetter("P")} disabled={guessedLetters.includes("P")} />
-          <LetterButton letter="Q" onClick={() => guessLetter("Q")} disabled={guessedLetters.includes("Q")} />
-          <LetterButton letter="R" onClick={() => guessLetter("R")} disabled={guessedLetters.includes("R")} />
-          <br />
-          <LetterButton letter="S" onClick={() => guessLetter("S")} disabled={guessedLetters.includes("S")} />
-          <LetterButton letter="T" onClick={() => guessLetter("T")} disabled={guessedLetters.includes("T")} />
-          <LetterButton letter="U" onClick={() => guessLetter("U")} disabled={guessedLetters.includes("U")} />
-          <LetterButton letter="V" onClick={() => guessLetter("V")} disabled={guessedLetters.includes("V")} />
-          <LetterButton letter="W" onClick={() => guessLetter("W")} disabled={guessedLetters.includes("W")} />
-          <LetterButton letter="X" onClick={() => guessLetter("X")} disabled={guessedLetters.includes("X")} />
-          <br />
-          <LetterButton letter="Y" onClick={() => guessLetter("Y")} disabled={guessedLetters.includes("Y")} />
-          <LetterButton letter="Z" onClick={() => guessLetter("Z")} disabled={guessedLetters.includes("Z")} />
+        <div className="form-check form-switch d-flex justify-content-center">
+          <input className="form-check-input" type="checkbox" role="switch" id="keyboardSwitch" checked={qwertyKeyboard} onChange={(event) => setQwertyKeyboard(event.target.checked)} />
+          <label className="form-check-label" htmlFor="keyboardSwitch">QWERTY Keyboard</label>
         </div>
+        {keyboardDisplay()}
         <p>or use keyboard for input</p>
 
         <hr />
